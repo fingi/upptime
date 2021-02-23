@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 415,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 408,
+    "timeDay": 408,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami",
     "status": "up",
-    "uptime": "59.86%",
-    "uptimeDay": "59.86%",
-    "uptimeWeek": "59.86%",
-    "uptimeMonth": "59.86%",
-    "uptimeYear": "59.86%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "uptime": "60.41%",
+    "uptimeDay": "60.41%",
+    "uptimeWeek": "60.41%",
+    "uptimeMonth": "60.41%",
+    "uptimeYear": "60.41%",
+    "time": 523,
+    "timeDay": 523,
+    "timeWeek": 523,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2021-02-23": 270
     }
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami-dhigu",
     "status": "down",
-    "uptime": "61.48%",
-    "uptimeDay": "61.48%",
-    "uptimeWeek": "61.48%",
-    "uptimeMonth": "61.48%",
-    "uptimeYear": "61.48%",
+    "uptime": "62.02%",
+    "uptimeDay": "62.02%",
+    "uptimeWeek": "62.02%",
+    "uptimeMonth": "62.02%",
+    "uptimeYear": "62.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -55,6 +55,26 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2021-02-23": 252
+    }
+  },
+  {
+    "name": "Emenu develop",
+    "url": "https://emenu.develop.okkami.com:3443/store?puid=000-000-0011&uid=9b1825bb-7839-4266-9efd-9902f9f576f3",
+    "icon": "https://favicons.githubusercontent.com/emenu.develop.okkami.com",
+    "slug": "emenu-develop",
+    "status": "down",
+    "uptime": "21.90%",
+    "uptimeDay": "21.90%",
+    "uptimeWeek": "21.90%",
+    "uptimeMonth": "21.90%",
+    "uptimeYear": "21.90%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-23": 0
     }
   },
   {
