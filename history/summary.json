@@ -5,18 +5,38 @@
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami",
     "status": "down",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 8
+      "2021-02-23": 17
+    }
+  },
+  {
+    "name": "Emenu OKKAMI Dhigu",
+    "url": "https://emenu.okkami.com/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247",
+    "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
+    "slug": "emenu-okkami-dhigu",
+    "status": "down",
+    "uptime": "42.16%",
+    "uptimeDay": "42.16%",
+    "uptimeWeek": "42.16%",
+    "uptimeMonth": "42.16%",
+    "uptimeYear": "42.16%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-23": 0
     }
   }
 ]
