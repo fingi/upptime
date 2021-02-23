@@ -1,22 +1,40 @@
 [
   {
+    "name": "CORE Production",
+    "url": "https://app.okkami.com",
+    "icon": "https://favicons.githubusercontent.com/app.okkami.com",
+    "slug": "core-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Emenu OKKAMI",
     "url": "https://emenu.okkami.com",
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 18
+      "2021-02-23": 30
     }
   },
   {
@@ -25,18 +43,36 @@
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami-dhigu",
     "status": "down",
-    "uptime": "22.90%",
-    "uptimeDay": "22.90%",
-    "uptimeWeek": "22.90%",
-    "uptimeMonth": "22.90%",
-    "uptimeYear": "22.90%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 13
     }
+  },
+  {
+    "name": "OKKAMI Website",
+    "url": "http://www.okkami.com",
+    "icon": "https://favicons.githubusercontent.com/www.okkami.com",
+    "slug": "okkami-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1675,
+    "timeDay": 1675,
+    "timeWeek": 1675,
+    "timeMonth": 1675,
+    "timeYear": 1675,
+    "dailyMinutesDown": {}
   }
 ]
