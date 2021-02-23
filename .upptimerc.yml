@@ -14,6 +14,10 @@ sites:
       - 304
   - name: Emenu OKKAMI Dhigu
     url: https://emenu.okkami.com/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 304
   - name: OKKAMI Website
     url: http://www.okkami.com
     
