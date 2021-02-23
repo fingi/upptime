@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/emenu.okkami.com",
     "slug": "emenu-okkami",
     "status": "down",
-    "uptime": "19.05%",
-    "uptimeDay": "19.05%",
-    "uptimeWeek": "19.05%",
-    "uptimeMonth": "19.05%",
-    "uptimeYear": "19.05%",
+    "uptime": "0.46%",
+    "uptimeDay": "0.46%",
+    "uptimeWeek": "0.46%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 8
     }
   }
 ]
