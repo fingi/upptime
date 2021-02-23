@@ -8,14 +8,10 @@ sites:
     url: https://app.okkami.com
   - name: Emenu OKKAMI
     url: https://emenu.okkami.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 304
   - name: Emenu OKKAMI Dhigu
-    url: https://172.30.0.248/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en
-    __dangerous__body_down_if_text_missing: "currency_code"
-    __dangerous__disable_verify_peer: true
+    url: https://emenu.okkami.com/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en
+    #__dangerous__body_down_if_text_missing: "currency_code"
+    #__dangerous__disable_verify_peer: true
   - name: OKKAMI Website
     url: http://www.okkami.com
     
