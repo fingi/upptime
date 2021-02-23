@@ -7,7 +7,7 @@ sites:
   - name: CORE Production
     url: https://app.okkami.com
   - name: Emenu OKKAMI
-    url: https://emenu.okkami.com
+    url: http://emenu.okkami.com/
   - name: Emenu OKKAMI Dhigu
     url: https://emenu.okkami.com/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en
     #__dangerous__body_down_if_text_missing: "currency_code"
