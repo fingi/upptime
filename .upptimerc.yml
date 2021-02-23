@@ -4,11 +4,15 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: CORE Production
+    url: https://app.okkami.com
   - name: Emenu OKKAMI
     url: https://emenu.okkami.com
   - name: Emenu OKKAMI Dhigu
     url: https://emenu.okkami.com/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247
-  
+  - name: OKKAMI Website
+    url: http://www.okkami.com
+    
 status-website:
   publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -17,8 +21,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**OKKAMI** uptime monitor and status page, powered entirely by GitHub."
+  introMessage: 
   navbar:
     - title: Status
       href: /
