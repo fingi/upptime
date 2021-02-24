@@ -6,22 +6,21 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: CORE Production
     url: https://app.okkami.com
-  - name: Emenu OKKAMI HTTP
-    url: http://emenu.okkami.com/
-  - name: Emenu OKKAMI HTTPS
+  - name: Emenu OKKAMI
     url: https://emenu.okkami.com/
     __dangerous__disable_verify_peer: true
-  - name: Emenu OKKAMI Dhigu
-    url: "https://emenu.okkami.com/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en"
-    __dangerous__disable_verify_peer: true
-    __dangerous__body_down_if_text_missing: "currency_code"
   - name: Emenu develop
     url: "https://emenu.develop.okkami.com:3443/api/store?puid=000-000-0011&uid=9b1825bb-7839-4266-9efd-9902f9f576f3&k=null&type=Store&language=en"
     __dangerous__disable_verify_peer: true
     __dangerous__body_down_if_text_missing: "currency_code"
   - name: OKKAMI Website
     url: http://www.okkami.com
-    
+  #- name: Emenu OKKAMI Dhigu
+  #  url: "https://emenu.okkami.com/api/store?puid=000-000-0103&uid=0577867d-e617-4698-b651-e43ed3e78247&k=null&type=Store&language=en"
+  #  __dangerous__disable_verify_peer: true
+  #  __dangerous__body_down_if_text_missing: "currency_code"
+
+ 
 status-website:
   publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
