@@ -52,7 +52,7 @@
     "uptimeYear": "99.90%",
     "time": 1020,
     "timeDay": 996,
-    "timeWeek": 1053,
+    "timeWeek": 1080,
     "timeMonth": 998,
     "timeYear": 1020,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
     "url": "http://www.okkami.com",
     "icon": "https://favicons.githubusercontent.com/www.okkami.com",
     "slug": "okkami-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
