@@ -53,7 +53,7 @@
     "time": 1020,
     "timeDay": 841,
     "timeWeek": 1024,
-    "timeMonth": 1000,
+    "timeMonth": 1001,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2021-03-18": 89,
@@ -67,7 +67,7 @@
     "url": "http://www.okkami.com",
     "icon": "https://favicons.githubusercontent.com/www.okkami.com",
     "slug": "okkami-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
