@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 689,
-    "timeDay": 219,
-    "timeWeek": 443,
-    "timeMonth": 430,
-    "timeYear": 711,
-    "dailyMinutesDown": {
-      "2021-03-10": 44
-    }
+    "timeDay": 853,
+    "timeWeek": 441,
+    "timeMonth": 447,
+    "timeYear": 712,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Emenu OKKAMI",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 1053,
-    "timeWeek": 931,
-    "timeMonth": 926,
+    "time": 921,
+    "timeDay": 833,
+    "timeWeek": 929,
+    "timeMonth": 922,
     "timeYear": 923,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1012,
-    "timeDay": 1067,
-    "timeWeek": 1004,
-    "timeMonth": 992,
+    "timeDay": 932,
+    "timeWeek": 1010,
+    "timeMonth": 988,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2021-03-18": 89
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1987,
-    "timeDay": 2385,
-    "timeWeek": 2135,
-    "timeMonth": 2210,
+    "time": 1986,
+    "timeDay": 1860,
+    "timeWeek": 2140,
+    "timeMonth": 2195,
     "timeYear": 1996,
     "dailyMinutesDown": {}
   }
