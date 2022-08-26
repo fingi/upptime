@@ -4,7 +4,7 @@
     "url": "https://app.okkami.com",
     "icon": "https://favicons.githubusercontent.com/app.okkami.com",
     "slug": "core-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1017,
     "timeDay": 1032,
-    "timeWeek": 979,
+    "timeWeek": 983,
     "timeMonth": 1237,
     "timeYear": 1009,
     "dailyMinutesDown": {}
