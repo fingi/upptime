@@ -58,17 +58,17 @@
     "url": "http://www.okkami.com",
     "icon": "https://favicons.githubusercontent.com/www.okkami.com",
     "slug": "okkami-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2405,
-    "timeDay": 3414,
-    "timeWeek": 4757,
-    "timeMonth": 3614,
-    "timeYear": 2558,
+    "time": 2408,
+    "timeDay": 3642,
+    "timeWeek": 4683,
+    "timeMonth": 3622,
+    "timeYear": 2561,
     "dailyMinutesDown": {}
   }
 ]
