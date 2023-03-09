@@ -4,17 +4,17 @@
     "url": "https://app.okkami.com",
     "icon": "https://favicons.githubusercontent.com/app.okkami.com",
     "slug": "core-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 394,
-    "timeWeek": 453,
-    "timeMonth": 570,
-    "timeYear": 621,
+    "time": 588,
+    "timeDay": 237,
+    "timeWeek": 399,
+    "timeMonth": 552,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 2500,
     "timeDay": 3529,
     "timeWeek": 3311,
-    "timeMonth": 3226,
+    "timeMonth": 3203,
     "timeYear": 2669,
     "dailyMinutesDown": {}
   }
